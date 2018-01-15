@@ -21,5 +21,5 @@ Scelta dei parametri (variabili)
   Se il disallineamento supera la soglia di 0.01ms verifico in un ciclo interno e cerco il "freeze"
 
 Criticità:
-Valore della deriva finale un po' elevato
-  
+- Valore della deriva finale un po' elevato
+- Prendendo valori troppo bassi dei parametri elencati sopra il risultato della deriva aumenta 
